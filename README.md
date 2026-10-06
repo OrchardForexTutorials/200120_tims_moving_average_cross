@@ -1,13 +1,11 @@
 # Tim's Moving Average Cross
 
 <!-- START_HEADER -->
-
 Youtube:  
 https://youtu.be/B_-Qvc3kMeM
 
 For a broker with fast execution and tight spreads sign up to IC Markets using our affiliate link <br>
 https://orchardforex.com/ic
-
 <!-- END_HEADER -->
 
 Today I am reviewing a trading strategy called “Tim’s Moving Average Cross”.
