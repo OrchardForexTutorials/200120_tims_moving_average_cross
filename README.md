@@ -10,6 +10,8 @@ https://orchardforex.com/ic
 
 <!-- END_HEADER -->
 
+## Description
+
 Today I am reviewing a trading strategy called “Tim’s Moving Average Cross”.
 
 You can find the author's description of the strategy here: https://youtu.be/a0xdZD1zZXM
