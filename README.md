@@ -1,30 +1,15 @@
 # Tim's Moving Average Cross
 
 <!-- START_HEADER -->
+
 Youtube:  
 https://youtu.be/B_-Qvc3kMeM
 
 For a broker with fast execution and tight spreads sign up to IC Markets using our affiliate link <br>
 https://orchardforex.com/ic
+
+
 <!-- END_HEADER -->
-
-## Description
-
-Today I am reviewing a trading strategy called “Tim’s Moving Average Cross”.
-
-You can find the author's description of the strategy here: https://youtu.be/a0xdZD1zZXM
-
-This strategy is not what you would normally expect from a moving-average cross. Instead of using a moving-average crossover as the direct entry signal, the moving averages are used as a trend filter. Trades are then based on price action, specifically price crossing the fast moving average.
-
-The video covers:
-
-- An overview of the strategy.
-- The trading rules.
-- How the moving averages are used to identify the trend.
-- How price crossing the fast moving average provides the trade signal.
-- A backtest of the strategy.
-
-The strategy is presented for educational and development purposes. Backtest results do not guarantee future performance, and trading results can be affected by spreads, commissions, slippage, market conditions, and execution quality.
 
 <!-- START_FOOTER -->
 ### Warning
@@ -84,4 +69,6 @@ ALSO, SINCE THE TRADES HAVE NOT BEEN EXECUTED, THE RESULTS MAY HAVE UNDER-OR-OVE
 IF ANY, OF CERTAIN MARKET FACTORS, SUCH AS LACK OF LIQUIDITY. SIMULATED TRADING PROGRAMS IN GENERAL
 ARE ALSO SUBJECT TO THE FACT THAT THEY ARE DESIGNED WITH THE BENEFIT OF HINDSIGHT.
 NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PROFIT OR LOSSES SIMILAR TO THOSE SHOWN.
+
 <!-- END_FOOTER -->
+
